@@ -7,7 +7,7 @@ Codigos desarrollados para telegal
 
 2. El segundo paso es realizar los cambios. Se recomienda implementar cambios en la rama de características antes de combinarlos en la rama principal. De esta forma, se tiene la seguridad de que los cambios son válidos en un entorno de producción.
 
-3. El tercer paso consiste en crear una solicitud de incorporación de cambios para pedir comentarios a los colaboradores. La revisión de solicitude sde cambios es tan valiosa que algunos repositorios requieren una revisión aprobatoria antes de que estas se puedan fusionar.
+3. El tercer paso consiste en crear una solicitud de incorporación de cambios para pedir comentarios a los colaboradores. La revisión de solicitudes de cambios es tan valiosa que algunos repositorios requieren una revisión aprobatoria antes de que estas se puedan fusionar.
 
 4. A continuación, el cuarto paso consiste en revisar e implementar los comentarios de los colaboradores.
 
