@@ -84,4 +84,12 @@ __This is bold and *italic* text__ using double underscores for bold and single 
 ### This is H6 text
 
 
+Adding an image
 ![Link an image.](isaf.png)
+
+
+
+Adding list
+1.First
+2.Second
+3.Third
