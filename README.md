@@ -77,3 +77,8 @@ __This is bold and *italic* text__ using double underscores for bold and single 
 
 
 \_This is all \*\*plain\*\* text\_.
+
+###### This is H6 text
+##### This is H6 text
+#### This is H6 text
+### This is H6 text
