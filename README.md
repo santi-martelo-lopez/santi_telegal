@@ -82,3 +82,6 @@ __This is bold and *italic* text__ using double underscores for bold and single 
 ##### This is H6 text
 #### This is H6 text
 ### This is H6 text
+
+
+![Link an image.](/learn/azure-devops/shared/media/mara.png)
