@@ -50,13 +50,13 @@ Adding a quote
 
 
 THis is another quote
+> If we pull together and commit ourselves, then we can push through anything.
 
+— Mona the Octocat
 
 
 ## Adding a comment
 
 <!-- TO DO: add more details about me later -->
 ---
-> If we pull together and commit ourselves, then we can push through anything.
 
-— Mona the Octocat
