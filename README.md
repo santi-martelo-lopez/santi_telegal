@@ -37,3 +37,8 @@ This is sameple table using markDown.
 |     3| SQL       |
 
 </details>
+
+
+
+Adding a horizontal line
+---
