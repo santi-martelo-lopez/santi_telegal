@@ -96,6 +96,8 @@ Adding list
 3. Third
 
 
+
+Adding code
 ```javascript
 var first = 1;
 var second = 2;
@@ -103,6 +105,8 @@ var sum = first + second
 ```
 
 
+
+Adding tasks
 - [x] First task
 - [x] Second task
 - [ ] Third task
