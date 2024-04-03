@@ -28,8 +28,12 @@ This is sameple table using markDown.
 
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>Coplapsing Table</summary>
 
-YOUR TABLE
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
 
 </details>
