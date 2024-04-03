@@ -93,3 +93,8 @@ Adding list
 1.First
 2.Second
 3.Third
+
+
+- [x] First task
+- [x] Second task
+- [ ] Third task
