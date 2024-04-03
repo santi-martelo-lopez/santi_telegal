@@ -44,11 +44,13 @@ Adding a horizontal line
 ---
 
 
+Adding a quote
+> THis is soposed to be a quote
+
+
+
 THis is another quote
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
-
-Adding a quote
-> THis is soposed to be a quote
