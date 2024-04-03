@@ -16,8 +16,12 @@ Codigos desarrollados para telegal
 6. El sexto y último paso es eliminar la rama. Al eliminar la rama se indica que el trabajo en la rama se ha completado y se evita que usted u otros usuarios empleen accidentalmente ramas antiguas.
 
 
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+## About me
+
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
