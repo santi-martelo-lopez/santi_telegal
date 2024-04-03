@@ -50,6 +50,12 @@ Adding a quote
 
 
 THis is another quote
+
+
+
+## Adding a comment
+
+<!-- TO DO: add more details about me later -->
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
