@@ -1,5 +1,5 @@
 # santi_telegal
-Codigos desarrollados para telegal como ejemplos
+Codigos desarrollados para telegal
 
 
 
